@@ -7,7 +7,7 @@ export default function Page() {
   return (
     <>
       <Home />
-      <p>Hello chào cả nhà</p>
+      <p>Hello World!</p>
     </>
   );
 }
