@@ -4,7 +4,10 @@ export const metadata = {
 };
 
 export default function Page() {
-  return <>
-    <Home />
-  </>;
+  return (
+    <>
+      <Home />
+      <p>Welcome to the App Router!</p>
+    </>
+  );
 }
