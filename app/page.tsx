@@ -7,7 +7,7 @@ export default function Page() {
   return (
     <>
       <Home />
-      <p>Welcome to the App Router!</p>
+      <p>Hello chào cả nhà</p>
     </>
   );
 }
