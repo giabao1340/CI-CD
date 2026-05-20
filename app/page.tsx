@@ -7,11 +7,10 @@ export default function Page() {
   return (
     <>
       <Home />
-      <p>Hello World!!!!</p>
+      <p>Hello World!!!</p>
     </>
   );
 }
-
 
 // # Chuyển commit từ main sang branch update
 // git checkout update
