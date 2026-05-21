@@ -3,7 +3,7 @@
  */
 const nextConfig = {
     output: 'export',
-    imgaes: {
+    images: {
         unoptimized: true,
     }
 
